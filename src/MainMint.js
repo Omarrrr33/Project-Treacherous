@@ -989,7 +989,7 @@ const MainMint = ({ accounts, setAccounts }) => {
             Project Treacherous
           </Text>
           <Text fontSize="25px" letterSpacing="-5.5%" textShadow="0 2px 2px #000000">
-            //pt.1: the first 350 guardians of the horizon rise from the
+            pt.1: the first 350 guardians of the horizon rise from the
             trenches, to defend their origin at all costs.
           </Text>
         </div>
