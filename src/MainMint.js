@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { ethers, BigNumber } from "ethers";
 import { Box, Button, Flex, Input, Text } from "@chakra-ui/react";
-import { parseTransaction, TransactionDescription } from "ethers/lib/utils";
 
 const projectTreacherousAddress = "0x97FadA07188501f28A4d7052DE0e58397c44741b";
 var abiarray = [
