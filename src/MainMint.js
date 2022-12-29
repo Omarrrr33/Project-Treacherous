@@ -979,6 +979,8 @@ const MainMint = ({ accounts, setAccounts }) => {
     setMintAmount(mintAmount + 1);
   };
 
+  // main mint portion
+
   return (
     <Flex justify="center" align="center" height="100vh" paddingBottom="150px">
       <Box width="520px">
@@ -986,11 +988,7 @@ const MainMint = ({ accounts, setAccounts }) => {
           <Text fontSize="48px" textShadow="0 5px #000000">
             Project Treacherous
           </Text>
-          <Text
-            fontSize="25px"
-            letterSpacing="-5.5%"
-            textShadow="0 2px 2px #000000"
-          >
+          <Text fontSize="25px" letterSpacing="-5.5%" textShadow="0 2px 2px #000000">
             //pt.1: the first 350 guardians of the horizon rise from the
             trenches, to defend their origin at all costs.
           </Text>
